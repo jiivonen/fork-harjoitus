@@ -2,5 +2,4 @@
 Tällä repositoriolla harjoitellaan forkkaamista
 
 ## Lisää nimesi tämän otsikon alle
-Niko
 Joonas
